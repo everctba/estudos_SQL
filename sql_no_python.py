@@ -1,6 +1,6 @@
 import sqlite3
 
-connect = sqlite3.connect("I:\P\projetos-ever\SQL\estudos_SQL\tete_primeiro_banco.db")
+connect = sqlite3.connect("I:\P\projetos-ever\SQL\estudos_SQL\primeiro_teste_primeiro_banco.db")
 
 cursor = connect.cursor()
 
